@@ -1,0 +1,1 @@
+### Basic Yeoman Generator for JavaScript Client aplications

@@ -1,0 +1,14 @@
+{
+  "name": "generator-basicjs",
+  "version": "0.0.1",
+  "description": "Yeoman generator for basic JavaScrit project",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
