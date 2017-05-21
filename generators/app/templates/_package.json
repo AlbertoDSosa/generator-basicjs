@@ -1,0 +1,12 @@
+{
+	"name": "<%= appname %>",
+	"version": "<%= version %>",
+	"description": "<%= descriptio %>",
+	"author": "<%= author %>",
+	"main": "gulpfile.js",
+	"scripts": {
+		"dev": "gulp dev",
+		"prod": "gulp prod"
+	},
+	"license": "<%= license %>"
+}

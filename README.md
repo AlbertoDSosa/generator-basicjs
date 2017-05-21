@@ -1,1 +1,1 @@
-### Basic Yeoman Generator for JavaScript Client aplications
+### Basic Yeoman Generator for JavaScript Single Page Aplications
