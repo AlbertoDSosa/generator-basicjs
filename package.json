@@ -1,12 +1,12 @@
 {
   "name": "generator-basicjs",
   "version": "0.0.1",
-  "description": "Yeoman generator for basic JavaScrit Single Page Application",
+  "description": "Yeoman generator for basic JavaScrit Single Page Applications",
   "author": "Alberto D.Sosa",
   "main": "generators/app/index.js",
   "license": "MIT",
   "scripts": {
-    "test": "standard --env mocha && nyc mocha --watch --reporter spec --timeout 3000"
+    "test": "standard --env mocha && nyc --reporter=lcov mocha --watch --reporter spec --timeout 3000"
   },
   "files": [
     "generators"
